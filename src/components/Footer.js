@@ -13,7 +13,7 @@ const Footer = (props) => {
             </div> 
             <p>Get all the latest news at one place, just a touch away!</p>
             <p>Copyright &copy; 2023 NewsWave</p>
-            <p>Developed By <a className="pointer text-decoration-none text-light footer-link" href="https://happykumar.tk/" target="_blank" rel="noreferrer">Happy Kumar</a></p>
+            <p>Developed for Project CSA3005.</p>
           </div>
           <div className="col-md-3 mt-4 mt-md-0">
             <h4 style={{fontWeight: 'normal'}}>Quick Links</h4>

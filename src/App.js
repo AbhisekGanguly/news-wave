@@ -8,7 +8,8 @@ import Footer from './components/Footer';
 
 const App = () => {
   const brandName = "NewsWave";
-  const apiKey = process.env.REACT_APP_NEWS_API;  // access apiKey from .env.local file
+  //const apiKey = process.env.REACT_APP_NEWS_API;  // access apiKey from .env.local file
+  const apiKey = '5501d91259f94a6e8f2946023d89771c'
   const pageSize = 15;
 
   const [progress, setProgress] = useState(0);
